@@ -1,0 +1,10 @@
+pandas>=2.0.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+python-dotenv>=1.0.0
+# Optional LLM providers (the agent runs without them too)
+anthropic>=0.34.0
+openai>=1.40.0
